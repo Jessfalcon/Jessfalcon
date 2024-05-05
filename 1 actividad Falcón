@@ -1,6 +1,6 @@
 numeroentero = 10
 numeroflotante = 3.14
-cadena =    'Skibidi'
+cadena =    'pucaquiereagaru'
 es_verdadero = True
 
 print("Numero entero:", numeroentero)
